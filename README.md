@@ -1,1 +1,1 @@
-# mafu-emote-api
+# mod-x-emote-api
